@@ -1,7 +1,13 @@
 # PDFInvoiceWoocommerce
-Incorporates a custom PDF invoice into the order confirmation email and introduces a new tab in the user's account section, under "orders", for easy invoice download.
+This is a lightweight WooCommerce extension that creates a "Download Invoice" button in the customers account page in the "orders list" section and generates a basic customizable PDF invoice that is automatically attached to the "order complete" emails sent to customers. In addition it generates a dynamic QR Code that is included on the invoice containing basic order information. 
 
 # How to Install "PDF Invoice Generator for WooCommerce" Plugin
+
+## Minimum Requirements
+
+* WooCommerce 3.0 or later
+* WordPress 3.5 or later
+* Requires PHP 7.1 tested upto 5.4
 
 ## Automatic Installation
 
@@ -43,3 +49,9 @@ We recommend using a logo that is 470 x 110 pixels.
 
 ### 1.2
 * Changed template layout and added footer section.
+
+## Contributing
+Contributions, issues, and feature requests are welcome!
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details - License URI: https://www.gnu.org/licenses/gpl-2.0.html
