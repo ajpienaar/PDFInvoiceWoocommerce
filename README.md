@@ -3,11 +3,15 @@ This is a lightweight WooCommerce extension that creates a "Download Invoice" bu
 
 # How to Install "PDF Invoice Generator for WooCommerce" Plugin
 
+## NB! Download the repository as a ZIP or clone and ZIP
+
 ## Minimum Requirements
 
 * WooCommerce 3.0 or later
 * WordPress 3.5 or later
 * Requires PHP 7.1 tested upto 5.4
+
+## Download the repository as a ZIP or clone and ZIP
 
 ## Automatic Installation
 
